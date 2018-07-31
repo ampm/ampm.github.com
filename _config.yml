@@ -1,9 +1,9 @@
 # Site settings
-title: "On Software Engineering, Mathematics<br>and Economics"
+title: ""
 author: "Yang Ning"
 description: "This is a blog about software, some mathematics, and the occasional philosophy. Not necessarily in that order."
 keywords: "Software Engineering, Mathematics"
-biography: "I am a..."
+#biography: ""
 colophon: "© MMXIII — MMXVI by Hugo Sereno Ferreira.<br>Content available under <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/'>Creative Commons (BY-NC-SA)</a> unless otherwise noted.<br>This site is hosted at <a href='https://pages.github.com/'>Github Pages</a> and created with <a href='http://jekyllrb.com/'>Jekyll</a>."
 
 baseurl: ""
